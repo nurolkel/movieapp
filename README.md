@@ -67,3 +67,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # movieapp
+
+
+new Node 17.1 
+
+add to package.json at the start script 
+--openssl-legacy-provider start
+add to package.json at the build script
+--openssl-legacy-provider build
