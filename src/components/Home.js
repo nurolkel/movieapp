@@ -13,6 +13,7 @@ import Spinner from './Spinner';
 import SearchBar from './SearchBar';
 import Button from './Button';
 // Hook
+
 import { useHomeFetch } from '../utils/useHomeFetch';
 
 // Image 
@@ -58,5 +59,6 @@ const Home = ()=> {
         </>
     )
 };
+
 
 export default Home;
