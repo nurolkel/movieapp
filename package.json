@@ -16,8 +16,8 @@
     "styled-components": "^5.3.0"
   },
   "scripts": {
-    "start": "react-scripts",
-    "build": "react-scripts",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
