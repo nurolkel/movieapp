@@ -29,7 +29,7 @@ const Login = () => {
                 userName,
                 password
             )
-            console.log(sessionId);    
+             
             setUser({
                 sessionId: sessionId.session_id,
                 userName
